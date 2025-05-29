@@ -42,6 +42,7 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
+  font-family: "BPG Arial";
 }
 .about-header a {
   color: #ffffff;
@@ -71,6 +72,7 @@ img {
   line-height: 34px;
   color: #171717;
   margin-bottom: 60px;
+  font-family: "BPG Arial";
 }
 .section-images img {
   max-width: 219px;
@@ -89,6 +91,7 @@ img {
   color: #171717;
   margin: 0 auto;
   padding-bottom: 18px;
+  font-family: "BPG Arial";
 }
 .show-more a {
   background-color: #0a22f4;
@@ -98,6 +101,7 @@ img {
   line-height: 19px;
   border-radius: 28px;
   font-weight: bold;
+  font-family: "BPG Arial";
 }
 .show-more {
   text-align: center;
@@ -120,12 +124,14 @@ img {
   line-height: 39px;
   padding-top: 270px;
   padding-bottom: 30px;
+  font-family: "BPG Arial";
 }
 .about-footer p {
   color: #ffffff;
   font-size: 16px;
   line-height: 26px;
   max-width: 463px;
+  font-family: "BPG Arial";
 }
 .about-footer iframe {
   width: 463px;
@@ -143,6 +149,7 @@ img {
   color: #ffffff;
   font-size: 22px;
   line-height: 27px;
+  font-family: "BPG Arial";
 }
 .contact img {
   width: 26px;
@@ -165,6 +172,7 @@ img {
   line-height: 19px;
   display: block;
   padding-bottom: 40px;
+  font-family: "BPG Arial";
 }
 .footer-form textarea {
   resize: none;
@@ -190,6 +198,7 @@ textarea {
   border-radius: 28px;
   margin-left: 200px;
   margin-top: 60px;
+  font-family: "BPG Arial";
 }
 .footer-bottom {
   display: flex;
@@ -214,6 +223,7 @@ textarea {
   font-size: 16px;
   color: #ffffff;
   line-height: 19px;
+  font-family: "BPG Arial";
 }
 .bottom-text h3::after {
   content: "";
@@ -233,6 +243,7 @@ span {
   color: #ffffff;
   font-size: 13px;
   line-height: 16px;
+  font-family: "BPG Arial";
 }
 .burger-menu {
   display: none;
