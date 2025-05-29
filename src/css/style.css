@@ -290,7 +290,7 @@ span {
     display: none;
   }
   .show-more {
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     margin-top: 12px;
   }
   .contact {
@@ -336,14 +336,14 @@ span {
   .footer-form h2 {
     display: block;
     padding-top: 30px;
-    font-size: 25px;
+    font-size: 20px;
   }
   .about-footer button {
     width: 100%;
     margin: 0px;
   }
   .footer-form,
-  .about-footer-iframe {
+  .footer-section {
     width: 100%;
   }
   .footer-bottom {
